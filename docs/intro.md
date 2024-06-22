@@ -2,21 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **The FlowCraft Tool**.
 
-## Getting Started
+## FlowCraft Design
 
-Get started by **creating a new site**.
+FlowCraft is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
+<!--
 ### What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
+  - When installing Node.js, you are recommended to check all checkboxes related to dependencies. -->
+<!--
 ## Generate a new site
 
 Generate a new Docusaurus site using the **classic template**.
@@ -29,8 +28,9 @@ npm init docusaurus@latest my-website classic
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+The command also installs all necessary dependencies you need to run Docusaurus. -->
 
+<!--
 ## Start your site
 
 Run the development server:
@@ -44,4 +44,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->

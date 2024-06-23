@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/craft.svg').default,
+    title: 'Powered By Donut Company',
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Donut is the greatest start up in <code>2024</code>, we are encourage you to use our products.  
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Parses Business Process Description',
     Svg: require('@site/static/img/document.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        By giving the flow miner the process description, it will give you the bpmn <code>xml</code> automaticlly.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/archeologist-svgrepo-com.svg').default,
+    title: 'Multi Agent Collaboration',
+    Svg: require('@site/static/img/group.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      This system uses the state of the art approaches to implement <code>bpmn</code> generation,
+      by using large language models and multi agent collaboration. 
       </>
     ),
   },

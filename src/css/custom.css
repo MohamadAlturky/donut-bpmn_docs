@@ -42,3 +42,7 @@
   background-color: #1d1f1e;
   color: #e3e9e8;
 }
+
+[data-theme='dark'] .logo-custom {
+  filter: invert(1) !important;
+}

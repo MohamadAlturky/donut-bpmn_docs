@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'FlowCraft ⛏',
+  title: 'FlowMiner ⛏',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/logo.svg',
+  favicon: 'img/mining.svg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -56,12 +56,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/background.svg',
+      image: 'img/mining.svg',
       navbar: {
-        title: 'FlowCraft',
+        title: 'FlowMiner',
         logo: {
           alt: 'Site Logo',
-          src: 'img/background.svg',
+          className:'logo-custom',
+          src: 'img/mining.svg',
         },
         items: [
           {to: '/blog', label: 'BPMN', position: 'left'},

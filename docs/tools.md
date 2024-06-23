@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Tools
 
 Let's discover **The FlowMiner Tool**.
+
+![docusaurus](../static/img/docusaurus.png)
 
 ## FlowMiner Design
 
 FlowMiner is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.**
-
-`in the next sections we will discover how to build this tool.`
 
 <!--
 ### What you'll need

@@ -65,7 +65,7 @@ const config = {
           src: 'img/mining.svg',
         },
         items: [
-          {to: '/blog', label: 'BPMN', position: 'left'},
+          {to: '/blog', label: 'BPMN (don\'t read not completed)', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',

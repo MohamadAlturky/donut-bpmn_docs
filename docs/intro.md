@@ -6,9 +6,17 @@ sidebar_position: 1
 
 Let's discover **The FlowMiner Tool**.
 
-## FlowMiner Design
+## Overview
 
-FlowMiner is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.**
+FlowMiner is an agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai library](https://github.com/joaomdmoura/CrewAI)**,** it's optimized to generate bpmn digrams from textual description.
+
+## Notes
+
+- we don't have money 😭 so we can't use very large language models `because we need an expensive machine to host a big model` or `give our money to openai to get an api-key for chatgpt` so:
+
+  > we can't give the llm a big task and let it work without optimize it's result.
+
+  > the window size of the llm is small so we will divide the big tasks into smaller ones.
 
 `in the next sections we will discover how to build this tool.`
 

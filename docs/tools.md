@@ -4,13 +4,42 @@ sidebar_position: 1
 
 # Tools
 
-Let's discover **The FlowMiner Tool**.
+in this section we will explore the technologies used to build the docs site and tool it self.
 
-![docusaurus](../static/img/docusaurus.png)
+## Docs Website
 
+this site built with the power of **[docusaurus](https://docusaurus.io/)** an open source built by <code>facebook</code> used make documentation sites with markdown files.
+
+![docusaurus](../static/img/docusaurus.svg)
+
+this tool uses **[react](https://react.dev/)** under the hood to give a great user and developer experiance, and like <code>docusaurus</code> react is an open source built by <code>facebook</code>.
+
+![react](../static/img/react.svg)
+
+this site is built tested and deployed on ubuntu server using github pages.
+
+![github](../static/img/github.svg)
+![github](../static/img/ubuntu.svg)
+
+we used the best IDE vs code thanks microsoft for it.
+
+![vs-code](../static/img/vs-code.svg)
+![microsoft](../static/img/microsoft.svg)
+
+## FlowMiner
+
+this tool is an ai tool built with python.
+
+![python](../static/img/python.svg)
+
+we built it using the open source library **[crewai](https://www.crewai.com/)** which gives us an efficient way to create agents and make them colaborate together to solve a specific task or a set of tasks.
+
+![crewai](../static/img/crew_ai.png)
+
+<!--
 ## FlowMiner Design
 
-FlowMiner is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.**
+FlowMiner is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.** -->
 
 <!--
 ### What you'll need

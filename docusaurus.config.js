@@ -73,8 +73,8 @@ const config = {
             label: 'System Architecture',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/MohamadAlturky/donut-bpmn',
+            label: 'Source Code',
             position: 'right',
           },
         ],

@@ -1,5 +1,5 @@
 {
-  "label": "BPMN Tasks",
+  "label": "Generate BPMN",
   "position": 3,
   "link": {
     "type": "generated-index"

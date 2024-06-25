@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`BPMN By`}
-      description="Description will go into a meta tag in <head />">
+      description="bpmn by E.Mohamad Alturky 🔥🔥🔥">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

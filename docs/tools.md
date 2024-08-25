@@ -26,7 +26,7 @@ we used the best IDE vs code thanks microsoft for it.
 ![vs-code](../static/img/vs-code.svg)
 ![microsoft](../static/img/microsoft.svg)
 
-## FlowMiner
+## Donut
 
 this tool is an ai tool built with python.
 
@@ -37,9 +37,9 @@ we built it using the open source library **[crewai](https://www.crewai.com/)** 
 ![crewai](../static/img/crew_ai.png)
 
 <!--
-## FlowMiner Design
+## Donut Design
 
-FlowMiner is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.** -->
+Donut is a distributed agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai lib](https://github.com/joaomdmoura/CrewAI)**.** -->
 
 <!--
 ### What you'll need

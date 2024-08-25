@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **The FlowMiner Tool**.
+Let's discover **The Donut Tool**.
 
 ## Overview
 
-FlowMiner is an agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai library](https://github.com/joaomdmoura/CrewAI)**,** it's optimized to generate bpmn digrams from textual description.
+Donut is an agent based llm **built with **[ollama](https://ollama.com/)** models and **[crewai library](https://github.com/joaomdmoura/CrewAI)**,** it's optimized to generate bpmn digrams from textual description.
 
 ## Notes
 

@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'FlowMiner ⛏',
+  title: 'Donut ⛏',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/mining.svg',
 
@@ -58,7 +58,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/mining.svg',
       navbar: {
-        title: 'FlowMiner',
+        title: 'Donut',
         logo: {
           alt: 'Site Logo',
           className:'logo-custom',
